@@ -1,6 +1,9 @@
 {
   "HomePage": {
     "title": "Hello world!",
-    "about": "Go to the about page"
+    "about": "Go to the about page",
+    "link": {
+      "home": "Home"
+    }
   }
 }
